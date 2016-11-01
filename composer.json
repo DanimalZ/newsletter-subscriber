@@ -1,0 +1,8 @@
+{
+    "name": "danimalZ/newsletter-subscriber",
+    "version": "master",
+    "source": {
+        "url": "https://github.com/DanimalZ/newsletter-subscriber.git",
+        "type": "git"
+    }
+}
