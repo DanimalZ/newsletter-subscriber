@@ -1,8 +1,8 @@
 {
     "name": "danimalZ/newsletter-subscriber",
-    "version": "master",
-    "source": {
-        "url": "https://github.com/DanimalZ/newsletter-subscriber.git",
-        "type": "git"
+    "autoload": {
+        "psr-0" : {
+            "danimalZ\\newsletter-subscriber" : "src"
+        }
     }
 }
